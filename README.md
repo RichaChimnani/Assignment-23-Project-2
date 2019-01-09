@@ -1,4 +1,4 @@
-# Assignment-23-Project-2
+# Soccer Players Rating
 
 In this exercise we are going to predict the overall rating of soccer player based on their attribute such as 'crossing', 'finishing' etc.
 
